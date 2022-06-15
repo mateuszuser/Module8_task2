@@ -1,0 +1,18 @@
+h1 {
+    font-size: 70px;
+    background: grey;
+    font-style: strong;
+}
+h2 {
+    font-size: 60px;
+    color: blue;
+}
+p {
+    font-size: 50px;
+}
+ul {
+    font-size: 50px;
+}
+h3 {
+    font-size: 40px;
+}
